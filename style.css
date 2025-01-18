@@ -51,3 +51,6 @@ span{
     transform: rotate(45deg);
     -webkit-transform: rotate(45deg);
   }
+  @media screen and (max-width:600p){
+    
+  }
